@@ -1,0 +1,124 @@
+Score: 5/30
+Percentage: 16.666666666666664%
+
+Your Answers:
+Question: Which of the following are part of the seven design principles for security in the cloud? (Choose TWO)
+Your Answer: []
+Correct Answer: Use IAM roles to grant temporary access instead of long-term credentials. Enable real-time traceability.
+
+Question: Which AWS services should be used for read/write of constantly changing data? (Select TWO)
+Your Answer: []
+Correct Answer: Amazon RDS. Amazon EFS.
+
+Question: A company has a MySQL database running on a single Amazon EC2 instance. The company now requires higher availability in the event of an outage.  Which set of tasks would meet this requirement?
+Your Answer: Add an Application Load Balancer in front of the EC2 instance
+Correct Answer: Migrate to Amazon RDS and enable Multi-AZ
+
+Question: A Cloud Practitioner needs to store data for 7 years to meet regulatory requirements.  Which AWS service will meet this requirement at the LOWEST cost?
+Your Answer: Amazon S3
+Correct Answer: Amazon S3 Glacier
+
+Question: What is one of the advantages of the Amazon Relational Database Service (Amazon RDS)?
+Your Answer: It simplifies relational database administration tasks.
+Correct Answer: It simplifies relational database administration tasks.
+
+Question: Which AWS tool will identify security groups that grant unrestricted Internet access to a limited list of ports?
+Your Answer: AWS Organizations
+Correct Answer: AWS Trusted Advisor
+
+Question: A company has deployed several relational databases on Amazon EC2 instances. Every month the database software vendor releases new security patches that need to be applied to the databases. What is the MOST efficient way to apply the security patches?
+Your Answer: Connect to each database instance on a monthly basis and download and apply the necessary security patches from the vendor.
+Correct Answer: Use AWS Systems Manager to automate database patching according to a schedule.
+
+Question: Much AWS services provide a way to extend an on-premises architecture to the AWS Cloud? (Select TWO)
+Your Answer: []
+Correct Answer: AWS Direct Connect. AWS Storage Gateway.
+
+Question: Which of the following services falls under the responsibility of the customer to maintain operating system configuration security patching and networking?
+Your Answer: Amazon RDS.
+Correct Answer: Amazon EC2.
+
+Question: Which cloud computing benefit does AWS demonstrate with its ability to offer lower variable costs as a result of high purchase volumes?
+Your Answer: Pay-as-you-go pricing
+Correct Answer: Economies of scale
+
+Question: Which of the following AWS services can be used to serve large amounts of online video content with the lowest possible latency? (Select TWO)
+Your Answer: []
+Correct Answer: Amazon S3. Amazom CloudFront.
+
+Question: Which of the following is AWS's responsibility under the AWS shared responsibility model?
+Your Answer: Configuring third-party applications
+Correct Answer: Maintaining physical hardware
+
+Question: What do you gain from setting up consolidated billing for five different AWS accounts under another master account?
+Your Answer: AWS services� costs will be reduced to half the original price.
+Correct Answer: Each AWS account gets volume discounts.
+
+Question: AWS supports which of the following methods to add security to Identity and Access Management (IAM) users? (Select TWO.)
+Your Answer: []
+Correct Answer: Using Multi-Factor Authentication (MFA) Enforcing password strength and expiration
+
+Question: How does AWS shorten the time to provision IT resources?
+Your Answer: It supplies an online IT ticketing platform for resource requests.
+Correct Answer: It provides the ability to programmatically provision existing resources.
+
+Question: For new AWS customers what is the EASIEST way to launch a simple WordPress website on AWS?
+Your Answer: Run WordPress on an Amazon Lightsail instance.
+Correct Answer: Run WordPress on an Amazon Lightsail instance.
+
+Question: Which of the following helps a customer view the Amazon EC2 billing activity for the past month?
+Your Answer: AWS Budgets.
+Correct Answer: AWS Cost & Usage Reports.
+
+Question: Which of the following services is in the category of AWS serverless platform?
+Your Answer: Amazon EMR.
+Correct Answer: AWS Lambda.
+
+Question: Amazon Relational Database Service (Amazon RDS) offers which of the following benefits over traditional database management?
+Your Answer: AWS manages the data stored in Amazon RDS tables.
+Correct Answer: AWS manages the maintenance of the operating system.
+
+Question: Under the AWS shared responsibility model which of the following is the customer's responsibility?
+Your Answer: Patching guest OS and applications
+Correct Answer: Patching guest OS and applications
+
+Question: Which service would provide network connectivity in a hybrid architecture that includes the AWS Cloud?
+Your Answer: Amazon VPC
+Correct Answer: Amazon VPC
+
+Question: Which of the following AWS features enables a user to launch a pre-configured Amazon Elastic Compute Cloud (Amazon EC2) instance?
+Your Answer: Amazon Elastic Block Store (Amazon EBS)
+Correct Answer: Amazon Machine Image
+
+Question: Which service enables customers to audit and monitor changes in AWS resources?
+Your Answer: AWS Trusted Advisor
+Correct Answer: AWS Config
+
+Question: A company requires a dedicated network connection between its on-premises servers and the AWS Cloud.  Which AWS service should be used?
+Your Answer: AWS VPN
+Correct Answer: AWS Direct Connect
+
+Question: The AWS Cloud’s multiple Regions are an example of:
+Your Answer: Agility.
+Correct Answer: Global infrastructure.
+
+Question: How does AWS MOST effectively reduce computing costs for a growing start-up company?
+Your Answer: It provides on-demand resources for peak usage.
+Correct Answer: It provides on-demand resources for peak usage.
+
+Question: Which services use AWS edge locations? (Choose two.)
+Your Answer: []
+Correct Answer: Amazon CloudFront AWS Shield
+
+Question: A company has multiple data sources across the organization and wants to consolidate data into one data warehouse.  Which AWS service can be used to meet this requirement?
+Your Answer: Amazon DynamoDB
+Correct Answer: Amazon Redshift
+
+Question: A company needs to host a big data application on AWS using EC2 instances. Which of the following AWS Storage services would they choose to automatically get high throughput to multiple compute nodes?
+Your Answer: Amazon Elastic Block Store.
+Correct Answer: Amazon Elastic File System.
+
+Question: Which of the following AWS services provide compute resources? (Choose two.)
+Your Answer: []
+Correct Answer: AWS Lambda Amazon Elastic Container Service (Amazon ECS)
+
